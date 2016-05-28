@@ -1,3 +1,5 @@
+package sample.console;
+
 import com._1c.v8.ibis.admin.AgentAdminException;
 
 /**

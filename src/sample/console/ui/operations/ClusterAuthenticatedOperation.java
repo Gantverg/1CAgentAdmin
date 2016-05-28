@@ -1,4 +1,4 @@
-package ui.operations;
+package sample.console.ui.operations;
 
 import java.awt.Component;
 import java.util.UUID;

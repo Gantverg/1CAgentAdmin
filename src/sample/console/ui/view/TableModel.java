@@ -1,4 +1,4 @@
-package ui.view;
+package sample.console.ui.view;
 
 import javax.swing.table.AbstractTableModel;
 

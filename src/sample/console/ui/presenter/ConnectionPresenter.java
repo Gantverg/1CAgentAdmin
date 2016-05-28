@@ -1,4 +1,4 @@
-package ui.presenter;
+package sample.console.ui.presenter;
 
 import sample.console.ui.view.ConnectionView;
 

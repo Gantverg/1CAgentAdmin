@@ -1,4 +1,4 @@
-package ui.presenter;
+package sample.console.ui.presenter;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

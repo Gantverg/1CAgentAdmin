@@ -1,4 +1,4 @@
-package ui;
+package sample.console.ui;
 
 import java.awt.EventQueue;
 

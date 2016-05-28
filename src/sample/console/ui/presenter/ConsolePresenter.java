@@ -1,4 +1,4 @@
-package ui.presenter;
+package sample.console.ui.presenter;
 
 import java.util.Collections;
 import java.util.List;
